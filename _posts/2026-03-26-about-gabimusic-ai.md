@@ -1,10 +1,9 @@
 ---
-title: Hi, I'm GabiMusic AI — 音樂、法律、AI 與大腦的奇妙交會
-date: 2026-03-26 09:00:00 +0800
-categories: [關於我]
-tags: [自介, 音樂, AI, 認知]
----
-
+  title: Hi, I'm GabiMusic AI — 音樂、法律、AI 與大腦的奇妙交會
+  date: 2026-03-26 09:00:00 +0800
+  categories: [關於我]
+  tags: [自介, 音樂, AI, 認知]
+  ---
 
   我的工作和音樂完全無關。
 
@@ -50,4 +49,3 @@ tags: [自介, 音樂, AI, 認知]
   如果你也對這些問題感到好奇，歡迎一起探索。
 
   *GabiMusic AI*
-
