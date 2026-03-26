@@ -219,7 +219,8 @@ jekyll-archives:
   layouts:
     category: category
     tag: tag
-  permalinks:
-    tag: /tags/:name/
-    category: /categories/:name/
-     future: true
+  permalinks:                   
+      tag: /tags/:name/                                                         
+      category: /categories/:name/
+                                                                              
+  future: true    
